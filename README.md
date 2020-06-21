@@ -4,11 +4,14 @@
 the app developed by cordova (使用cordova开发的app)  
 You can pack your own (你可以自己打包)  
 
+[cordova website](https://cordova.apache.org/) 
+
 ## step (步骤)
 
 1. git clone git@github.com:ckminder/markmind-mobile.git
 2. npm install
-3. cordova plugin add (添加插件)
+3. cordova platform add andriod/ios
+4. cordova plugin add (添加插件)
 
     1. cordova-plugin-file
     2. cordova-plugin-file-transfer
@@ -18,11 +21,13 @@ You can pack your own (你可以自己打包)
     6. cordova-plugin-dialogs
     7. cordova-plugin-whitelist
     
-4.cordova run  (打包)
+5.cordova run  (打包)
 
 ## download
 
 you can download:[markmind 1.0.0](https://github.com/ckminder/markmind-data/releases)
+
+![QQ图片20200621121835.jpg](https://i.loli.net/2020/06/21/mEslnHio46RywAI.jpg)
 
 
 
