@@ -22,7 +22,7 @@ You can pack your own (你可以自己打包)
 
 ## download
 
-you can download:[markmind 1.0.0](https://github.com/ckminder/markmind-mobile)
+you can download:[markmind 1.0.0](https://github.com/ckminder/markmind-data/releases)
 
 
 
