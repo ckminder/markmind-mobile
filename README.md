@@ -9,6 +9,7 @@ You can pack your own (你可以自己打包)
 1. git clone git@github.com:ckminder/markmind-mobile.git
 2. npm install
 3. cordova plugin add (添加插件)
+
     1. cordova-plugin-file
     2. cordova-plugin-file-transfer
     3. cordova-plugin-splashscreen
@@ -16,6 +17,7 @@ You can pack your own (你可以自己打包)
     5. cordova-plugin-camera
     6. cordova-plugin-dialogs
     7. cordova-plugin-whitelist
+    
 4.cordova run  (打包)
 
 ## download
