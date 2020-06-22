@@ -29,6 +29,16 @@ you can download:[markmind 1.0.0](https://github.com/ckminder/markmind-data/rele
 
 ![QQ图片20200621121835.jpg](https://i.loli.net/2020/06/21/mEslnHio46RywAI.jpg)
 
+# markmind-pc
+[download](https://github.com/ckminder/markmind-mobile/releases)
+
+### screenshot
+![win.png](https://i.loli.net/2020/06/21/rkHwx68hiKqVNAP.png)
+![mac.png](https://i.loli.net/2020/06/21/PRZeoVTkdaqjw4E.png)
+![linux.png](https://i.loli.net/2020/06/21/JTyHG7qvKMkQIwb.png)
+
+
+
 
 
 
