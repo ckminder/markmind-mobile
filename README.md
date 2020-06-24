@@ -34,7 +34,7 @@ You can pack your own (你可以自己打包)
 
 ## download
 
-you can download:[markmind 1.0.0](https://github.com/ckminder/markmind-data/releases)
+you can download:[markmind](https://github.com/ckminder/markmind-mobile/releases)
 
 ![QQ图片20200621121835.jpg](https://i.loli.net/2020/06/21/mEslnHio46RywAI.jpg)
 
